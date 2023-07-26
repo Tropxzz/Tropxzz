@@ -1,4 +1,4 @@
-- GitHub stats: [Tropxz's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=verlox&show_icons=true&theme=radical)
+- GitHub stats: [click](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tropxzz&show_icons=true&theme=radical)
 - 👋 Hi, I’m @Tropxzz
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to get bitches
