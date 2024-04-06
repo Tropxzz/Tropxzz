@@ -1,5 +1,5 @@
 # Hi
-**I spend life doing random roblox projects that wont help me in life support me fr https://discord.gg/tAExSDu4qW **
+**I spend life doing random roblox projects that won't help me in life support me fr** [https://discord.gg/tAExSDu4qW](https://discord.gg/tAExSDu4qW)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tropxzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Languages" height="145" alt="languages graph"  />
