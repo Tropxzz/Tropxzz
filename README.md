@@ -18,7 +18,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="10" />
- <img src = "https://discord.c99.nl/widget/theme-3/718957294800339075.png" />
+ <img src = "[https://discord.c99.nl/widget/theme-3/718957294800339075.png](https://discord.c99.nl/widget/theme-3/1184740148487925851.png)" />
 </div>
 
 ###
