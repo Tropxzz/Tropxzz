@@ -1,6 +1,8 @@
 # Hi
 **I spend life doing random roblox projects that won't help me in life support me fr** [https://discord.gg/tAExSDu4qW](https://discord.gg/tAExSDu4qW)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=join+rn%3A+https%3A%2F%2Fdiscord.gg%2Fp9EEmdybF8)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tropxzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Languages" height="145" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Tropxzz&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="145" alt="streak graph"  />
