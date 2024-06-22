@@ -18,5 +18,12 @@
 
 [CursedData](https://github.com/Tropxzz/CursedData)
 
+# About me
+----------
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+OS: Windows 11
+Normal Coding Language: LuaU
+Name: Johnny
+
 ![pro](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
 
