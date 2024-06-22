@@ -11,6 +11,9 @@
 ##Projects
 ------------------
 [barnical](https://barnical.github.io/)
+
 [SweatDestroyer](https://github.com/Tropxzz/SweatDestroyer)
+
 [Gearz](https://github.com/Tropxzz/GEARZ-)
+
 [CursedData](https://github.com/Tropxzz/CursedData)
