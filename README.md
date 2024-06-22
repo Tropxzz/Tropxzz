@@ -18,4 +18,5 @@
 
 [CursedData](https://github.com/Tropxzz/CursedData)
 
-  <img src="[https://streak-stats.demolab.com?user=Tropxzz&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)" height="145" alt="streak graph"  />
+![pro](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
+
