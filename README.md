@@ -17,3 +17,5 @@
 [Gearz](https://github.com/Tropxzz/GEARZ-)
 
 [CursedData](https://github.com/Tropxzz/CursedData)
+
+[![typing thing]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=join+rn%3A+https%3A%2F%2Fdiscord.gg%2Fp9EEmdybF8](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg))
