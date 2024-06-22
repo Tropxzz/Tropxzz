@@ -8,4 +8,9 @@
   <img src="https://streak-stats.demolab.com?user=Tropxzz&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="145" alt="streak graph"  />
 </div>
 
-###
+##Projects
+------------------
+[barnical](https://barnical.github.io/)
+[SweatDestroyer](https://github.com/Tropxzz/SweatDestroyer)
+[Gearz](https://github.com/Tropxzz/GEARZ-)
+[CursedData](https://github.com/Tropxzz/CursedData)
